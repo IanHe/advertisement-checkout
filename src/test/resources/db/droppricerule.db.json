@@ -1,0 +1,12 @@
+[
+  {
+    "customerId": 2,
+    "advertisementType": "Standout",
+    "price": 299.99
+  },
+  {
+    "customerId": 3,
+    "advertisementType": "Premium",
+    "price": 389.99
+  }
+]

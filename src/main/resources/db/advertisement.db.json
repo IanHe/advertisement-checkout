@@ -1,0 +1,20 @@
+[
+  {
+    "adsType": "Classic",
+    "price": 269.99,
+    "qty": 0,
+    "description": "Offers the most basic level of advertisement"
+  },
+  {
+    "adsType": "Standout",
+    "price": 322.99,
+    "qty": 0,
+    "description": "Allows advertisers to use a company logo and use a longer presentation text"
+  },
+  {
+    "adsType": "Premium",
+    "price": 394.99,
+    "qty": 0,
+    "description": "Same benefits as Standout Ad, but also puts the advertisement at the top of the results, allowing higher visibility"
+  }
+]

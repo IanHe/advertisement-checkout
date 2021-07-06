@@ -1,0 +1,14 @@
+[
+  {
+    "customerId": 1,
+    "advertisementType": "Classic",
+    "baseNum": 3,
+    "outputNum": 2
+  },
+  {
+    "customerId": 3,
+    "advertisementType": "Standout",
+    "baseNum": 5,
+    "outputNum": 4
+  }
+]
